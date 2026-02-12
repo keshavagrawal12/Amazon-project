@@ -36,7 +36,11 @@ No complex build steps are required. You can run this project directly in the br
 
 1.  **Clone the repository:**
     ```bash
+<<<<<<< HEAD
     git clone https://github.com/keshavagrawal12/Amazon-project.git
+=======
+    git clone https://github.com/yourusername/javascript-amazon-project.git
+>>>>>>> 4f241b7 (Update README to GitHub detailed version)
     cd javascript-amazon-project
     ```
 
